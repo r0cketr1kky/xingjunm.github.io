@@ -16,7 +16,7 @@ author: Rakshit Naidu
 navbar-links:
   Publications: "publications"
   Talks: "talks"
-  CV: "cv"
+  CV: "/assets/Rakshit_Naidu_Resume.pdf"
   # Research:
   #   - Adversarial machine learning: "https://xingjunma.com"
     # - Learn markdown: "https://xingjunma.com"
