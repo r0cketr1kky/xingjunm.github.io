@@ -6,17 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: Xingjun Ma
+title: Rakshit Naidu
 
 # Your name to show in the footer
-author: Xingjun Ma
+author: Rakshit Naidu
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Publications: "publications"
   Talks: "talks"
-  Teaching: "teaching"
   # Research:
   #   - Adversarial machine learning: "https://xingjunma.com"
     # - Learn markdown: "https://xingjunma.com"
@@ -40,15 +39,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "daniel.ma@deakin.edu.au"
-  google-scholar: citations?user=XQViiyYAAAAJ&hl=en
+  email: "rnemakal@andrew.cmu.edu"
+  google-scholar: citations?user=bbscqSsAAAAJ&hl=en
   # facebook: deanattali
   # patreon: DeanAttali
   # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: daniel-xingjun-ma
-  twitter: XingjunMa
+  linkedin: rakshit-naidu-8b3431166
+  twitter: RakshitNaidu
   # github: xingjunm
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -114,8 +113,8 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/yellowbg.png"
-footer-img: "/assets/img/yellowbg.png"
+#navbar-img: "/assets/img/yellowbg.png"
+#footer-img: "/assets/img/yellowbg.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
@@ -194,7 +193,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Australia/Melbourne"
+timezone: "India/Mumbai"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
