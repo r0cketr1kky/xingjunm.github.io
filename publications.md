@@ -13,16 +13,16 @@ Aman Priyanshu, <b>Rakshit Naidu</b>, Fatemehsadat Mireshghallah, Mohammad Malek
 arxiv Preprint, Under Review.
 
 <a href="https://arxiv.org/abs/2106.13203" target="_blank"><b>When Differential Privacy Meets Interpretability: A Case Study </b></a><br/>
-<b>Rakshit Naidu*</b>, Aman Priyanshu<sup>*</sup>, Aadith Kumar, Sasikanth Kotti, Haofan Wang, Fatemehsadat Mireshghallah<br/>
+<b>Rakshit Naidu*</b>, Aman Priyanshu\*, Aadith Kumar, Sasikanth Kotti, Haofan Wang, Fatemehsadat Mireshghallah<br/>
 Extended abstract at Responsible Computer Vision (RCV) workshop, CVPR 2021. <br/>
 arxiv Preprint, Under Review.
 
 <a href="https://arxiv.org/abs/2107.06946" target="_blank"><b>Towards Quantifying the Carbon Emissions of Differentially Private Machine Learning </b></a><br/>
-<b>Rakshit Naidu*</b>, Harshita Diddee<sup>*</sup>, Ajinkya Mulay<sup>*</sup>, Aleti Vardhan, Krithika Ramesh, Ahmed Zamzam<br/>
+<b>Rakshit Naidu*</b>, Harshita Diddee\*, Ajinkya Mulay\*, Aleti Vardhan, Krithika Ramesh, Ahmed Zamzam<br/>
 Socially Responsible Machine Learning (SRML) workshop, ICML 2021.
 
 <a href="https://arxiv.org/abs/2106.13973" target="_blank"><b>Benchmarking Differential Privacy and Federated Learning for BERT Models </b></a><br/>
-Priyam Basu<sup>*</sup>, Tiasa Singha Roy<sup>*</sup>, <b>Rakshit Naidu</b>, Zumrut Muftuoglu, Sahib Singh, Fatemehsadat Mireshghallah<br/>
+Priyam Basu<sup>*</sup>, Tiasa Singha Roy\*, <b>Rakshit Naidu</b>, Zumrut Muftuoglu, Sahib Singh, Fatemehsadat Mireshghallah<br/>
 Machine Learning for Data (ML4DATA) workshop, ICML 2021.
 
 <a href="https://arxiv.org/abs/2106.12576" target="_blank"><b>DP-SGD vs PATE: Which Has Less Disparate Impact on Model Accuracy? </b></a><br/>
