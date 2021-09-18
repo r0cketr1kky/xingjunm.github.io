@@ -10,12 +10,12 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 <a href="https://arxiv.org/abs/2108.03888" target="_blank"><b>Efficient Hyperparameter Optimization for Differentially Private Deep Learning</b></a><br/>
 Aman Priyanshu, <b>Rakshit Naidu</b>, Fatemehsadat Mireshghallah, Mohammad Malekzadeh <br/>
-arxiv Preprint, Under Review.
+Privacy-Preserving Machine Learning (PPML) workshop, CCS 2021.
 
 <a href="https://arxiv.org/abs/2106.13203" target="_blank"><b>When Differential Privacy Meets Interpretability: A Case Study </b></a><br/>
 <b>Rakshit Naidu*</b>, Aman Priyanshu\*, Aadith Kumar, Sasikanth Kotti, Haofan Wang, Fatemehsadat Mireshghallah<br/>
 Extended abstract at Responsible Computer Vision (RCV) workshop, CVPR 2021. <br/>
-arxiv Preprint, Under Review.
+Privacy-Preserving Machine Learning (PPML) workshop, CCS 2021.
 
 <a href="https://arxiv.org/abs/2107.06946" target="_blank"><b>Towards Quantifying the Carbon Emissions of Differentially Private Machine Learning </b></a><br/>
 <b>Rakshit Naidu*</b>, Harshita Diddee\*, Ajinkya Mulay\*, Aleti Vardhan, Krithika Ramesh, Ahmed Zamzam<br/>
@@ -28,6 +28,7 @@ Machine Learning for Data (ML4DATA) workshop, ICML 2021.
 <a href="https://arxiv.org/abs/2106.12576" target="_blank"><b>DP-SGD vs PATE: Which Has Less Disparate Impact on Model Accuracy? </b></a><br/>
 Archit Uniyal\*, <b>Rakshit Naidu*</b>, Sasikanth Kotti, Patrik Joslin Kenfack, Sahib Singh, Fatemehsadat Mireshghallah, Andrew Trask<br/>
 Machine Learning for Data (ML4DATA) workshop, ICML 2021.
+Privacy-Preserving Machine Learning (PPML) workshop, CCS 2021.
 
 <a href="http://proceedings.mlr.press/v148/mulay21a.html" target="_blank"><b>FedPerf: A Practitioners’ Guide to Performance of Federated Learning Algorithms </b></a><br/>
 Ajinkya Mulay\*, Baye Gaspard\*, <b>Rakshit Naidu*</b>, Santiago Gonzalez-Toral\*, Vineeth S\*, Tushar Semwal\*, Ayush Manish Agrawal <br/>
