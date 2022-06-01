@@ -6,6 +6,12 @@ subtitle:
 
 The full list of publications can be found on <a href="https://scholar.google.com/citations?user=bbscqSsAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
+### 2022
+
+<a href="https://arxiv.org/abs/2108.03888" target="_blank"><b>Pruning has a disparate impact on model accuracy</b></a><br/>
+Cuong Tran, Ferdinando Fioretto, Jung-Eun Kim, <b>Rakshit Naidu</b>
+*Under Review*
+
 ### 2021
 
 <a href="https://arxiv.org/abs/2108.03888" target="_blank"><b>Efficient Hyperparameter Optimization for Differentially Private Deep Learning</b></a><br/>
