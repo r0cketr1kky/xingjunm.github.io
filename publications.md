@@ -9,7 +9,7 @@ The full list of publications can be found on <a href="https://scholar.google.co
 ### 2022
 
 <a href="https://arxiv.org/abs/2108.03888" target="_blank"><b>Pruning has a disparate impact on model accuracy</b></a><br/>
-Cuong Tran, Ferdinando Fioretto, Jung-Eun Kim, <b>Rakshit Naidu</b>
+Cuong Tran, Ferdinando Fioretto, Jung-Eun Kim, <b>Rakshit Naidu</b> <br/>
 *Under Review*
 
 ### 2021
